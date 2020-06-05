@@ -12,7 +12,7 @@ python2 or python3
 
 run:
 
-python filtra_todas_MIR
+python filtra_todas_MIR.py
 
 harpin database available in:
 
