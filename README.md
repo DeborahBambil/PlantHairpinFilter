@@ -1,4 +1,4 @@
-# filter_harpin_plants
+# Filter harpin plants
 
 Author: MIRELE CAROLINA SOUZA
 
