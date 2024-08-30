@@ -1,19 +1,16 @@
-# Filter Plant Hairpin
+# Plant Harpin Sequence Filter Tool
 
-Author: MIRELE CAROLINA SOUZA
+**Author:** MIRELE CAROLINA SOUZA
 
-The purpose of this tool is to filter the plant harpin sequences.
+## Purpose
 
-Requirements run the tool
+The purpose of this tool is to filter plant harpin sequences.
 
-install:
+## Requirements
 
-python2 or python3
+1. **Install**:
+   - Python 2 or Python 3
 
-run:
-
-python filtra_todas_MIR.py
-
-harpin database available in:
-
-ftp://mirbase.org/pub/mirbase/CURRENT/hairpin.fa.gz
+2. **Run the tool**:
+   ```bash
+   python filtra_todas_MIR.py
